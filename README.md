@@ -1,12 +1,10 @@
 # Cellular thermo-adaptability regulated via Myosin II activity tunes the efficiency of immune and wounding responses
 
-This repository contains the scripts for data analysis of the paper Cellular thermo-adaptability regulated via Myosin II activity tunes the efficiency of immune and wounding responses.
+This repository contains the scripts for data analysis of the paper I Company-Garrido et al, Cellular thermo-adaptability regulated via Myosin II activity tunes the efficiency of immune and wounding responses.
 
 ## Contents
 
-### Cell tracking analysis
+- Fiji macro for autoclick when manually tracking cells.
+- Code for the analysis of invitro cell migration assays
 
-Code for analysis of the cell tracking.
-
-### Thermo-forceps setup
 
